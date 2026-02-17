@@ -1,0 +1,1 @@
+# repro-tsdown-paths-nodeProtocol-strip
