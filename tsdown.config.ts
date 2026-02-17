@@ -14,7 +14,7 @@ const config = defineConfig([
 		entry: 'src/index.ts',
 		format: ['cjs'],
 		target: 'node12',
-		nodeProtocol: true,
+		nodeProtocol: "strip",
 		dts: false,
 		exports: true,
 		fixedExtension: true,
