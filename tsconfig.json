@@ -20,7 +20,7 @@
     "verbatimModuleSyntax": true,
 
     "paths": {
-      "crypto": ["./src/crypto-polyfill.ts"]
+      // "crypto": ["./src/crypto-polyfill.ts"]
     }
   },
   "include": ["src/**/*"],

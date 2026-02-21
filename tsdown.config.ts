@@ -19,6 +19,9 @@ const config = defineConfig([
 		exports: true,
 		fixedExtension: true,
 		shims: true,
+		alias: {
+			"crypto": "./src/crypto-polyfill.ts",
+		},
 	},
 ]);
 
