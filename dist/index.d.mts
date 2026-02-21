@@ -1,4 +1,2 @@
-//#region src/crypto-polyfill.d.ts
-declare const randomUUID: () => `${string}-${string}-${string}-${string}-${string}`;
-//#endregion
+import { randomUUID } from "node:crypto";
 export { randomUUID };

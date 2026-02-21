@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "bun-types": "^1.3.9",
-    "tsdown": "^0.20.3",
+    "tsdown": "https://pkg.pr.new/tsdown@773",
     "typescript": "^5.9.3"
   }
 }
